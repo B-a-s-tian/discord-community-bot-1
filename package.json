@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "discord-giveaways": "^5.1.1",
+    "discord-html-transcripts": "^2.3.2",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0",
+    "mongoose": "^6.3.0",
+    "ms": "^2.1.3",
+    "node-superfetch": "^0.2.3",
+    "superagent": "^7.1.2"
+  },
+  "name": "bastian-community-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bastian#6969",
+  "license": "ISC",
+  "description": ""
+}
