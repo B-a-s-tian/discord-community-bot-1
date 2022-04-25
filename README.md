@@ -18,8 +18,8 @@ Commands:
 - twitchstats
 - Userinfo
 
-As of 04/24/2022
-made by Bastian
+Stand: 25.04.2022
+Gemacht von Bastian
 
 Contact:
 - Discord: Bastian#6969
